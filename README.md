@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAYEONLEE94%2FDAYEONLEE94.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center"><img src="https://i.ibb.co/zS90F4X/012-2.png" alt="012-2" border="0"></div>
 
 <br>
@@ -56,3 +58,5 @@
     <td>14. Spring Boot <code>2024.03.25 ~ 2024.03.29</code></td>
   </tr>
 </table>
+
+
